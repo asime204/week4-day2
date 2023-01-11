@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "week4day2HW",
+            "connectString": "postgres://qjfjzhfx:LZaERXJvHbUBAiFO8v7Z6H6KG2tL38EA@chunee.db.elephantsql.com/qjfjzhfx"
+        }
+    ]
+}
